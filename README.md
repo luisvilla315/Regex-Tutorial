@@ -1,7 +1,7 @@
 # Regex-Tutorial
 
 ## Summary
-Regular expressions are a way to identify patterns in a string. They are used in programming languages such as Javascript, Perl, Python, PHP, and Java. In Javascript, regular expressions can be created using the RegExp constructor or by enclosing the pattern in forward slashes ( / ). A character class is a group of characters that can match any one character within the group. Ranges of characters can be specified using a hyphen, but if the hyphen appears at the beginning or end of the group, it is treated as a literal character rather than a range indicator. Regular expressions are useful for matching and extracting values from patterns, such as URLs, input/output data, email addresses, passwords, and usernames. For example, the regular expression[ /^([a-z0-9_.-]+)@([\da-z.-]+).([a-z.]{2,6})$/ ]can be used to match an email address.
+Regular expressions are a way to identify patterns in a string. They are used in programming languages such as Javascript, Perl, Python, PHP, and Java. In Javascript, regular expressions can be created using the RegExp constructor or by enclosing the pattern in forward slashes ( / ). A character class is a group of characters that can match any one character within the group. Ranges of characters can be specified using a hyphen, but if the hyphen appears at the beginning or end of the group, it is treated as a literal character rather than a range indicator. Regular expressions are useful for matching and extracting values from patterns, such as URLs, input/output data, email addresses, passwords, and usernames. For example, the regular expression [ /^([a-z0-9_.-]+)@([\da-z.-]+).([a-z.]{2,6})$/ ] can be used to match an email address.
 
 ## Table of Contents
 
